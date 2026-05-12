@@ -1,0 +1,3 @@
+[submodule "module-belajar-submodule"]
+	path = module-belajar-submodule ()
+	url = git@github.com:Avrijalajah/module-belajar-submodule.git
